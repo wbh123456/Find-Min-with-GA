@@ -1,2 +1,2 @@
 # Find-Min-with-GA
-Find min of a function using genetic algorithm.
+This program finds the minimum point of a function using Genetic Algorithm.
